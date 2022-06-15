@@ -1,0 +1,185 @@
+PFA TD ppt and PFB source file which is not opening for few of you:
+
+ 
+
+Pls create 4 LandingZone tables with 1 to 1 relationship and then go ahead with Fact/Dim/agg tables logic/population.
+
+ 
+
+Department feed:
+
+Dept Code          Dept Name
+
+D1         B.E. Aeronautical Engineering
+
+D2         B.E. Civil Engineering
+
+D3         B.E. Computer Science and Engineering
+
+D4         B.E. Electrical and Electronics Engineering
+
+D5         B.E. Electronics and Communication Engineering
+
+D6         B.E. Electronics and Instrumentation Engineering
+
+D7         B.E. Mechanical Engineering
+
+D8         B.E. Mechatronics Engineering
+
+D9         B.Tech. Bio Technology
+
+D10       B.Tech. Fashion Technology
+
+D11       B.Tech. Information Technology
+
+D12       B.Tech. Textile Technology
+
+D13       M.E. Applied Electronics
+
+D14       M.E. CAD/CAM Engineering
+
+D15       M.E. Communication Systems
+
+D16       M.E. Computer Science and Engineering
+
+D17       M.E. Energy Engineering
+
+D18       M.E. Industrial Engineering
+
+D19       M.E. Power Electronics and Drives
+
+D20       M.E. Structural Engineering
+
+D21       M.Tech. Apparel Technology & Management
+
+D22       M.Tech. Bio-Technology
+
+D23       M.Tech. Textile Technology
+
+ 
+
+Student Marks:
+
+ROLL     Mark1   Mark2   Mark3   Mark4   Mark5
+
+152211 50          70          60          30          80
+
+151123 51          71          61          31          81
+
+153416 52          72          62          32          82
+
+152517 53          73          63          33          83
+
+153214 54          74          64          34          84
+
+152801 55          75          65          35          85
+
+153103 56          76          66          36          86
+
+156211 57          77          67          37          87
+
+154133 58          78          68          38          88
+
+152425 59          79          69          39          89
+
+153444 60          80          70          50          30
+
+345432 61          81          71          51          31
+
+156666 62          82          72          52          32
+
+146783 63          83          73          53          33
+
+123456 64          84          74          54          34
+
+12342   65          85          75          55          35
+
+151233 66          86          76          56          36
+
+331145 67          87          77          57          37
+
+156783 68          88          78          58          38
+
+123454 69          89          79          70          54
+
+167895 70          90          80          71          55
+
+124566 71          91          81          72          56
+
+156787 72          92          82          73          57
+
+156788 73          93          83          74          58
+
+156789 74          94          84          75          59
+
+156710 75          95          85          76          60
+
+158711 76          96          86          77          61
+
+158712 77          97          87          78          62
+
+158713 78          98          88          79          63
+
+158714 79          99          89          80          64
+
+158715 80          45          90          81          65
+
+158716 81          46          91          82          66
+
+158717 82          47          92          83          67
+
+158718 83          48          93          84          68
+
+158719 84          49          94          85          69
+
+158720 85          50          95          86          70
+
+158721 86          51          96          87          71
+
+158722 87          52          97          88          72
+
+158723 88          53          98          89          73
+
+ 
+
+Student details:
+
+Student_ID        Student_Name
+
+1            Arjun
+
+2            Banu
+
+3            Chris
+
+4            Albert
+
+5            Swetha
+
+6            Thanu
+
+7            Venu
+
+ 
+
+Student address:
+
+Address Postal_code       Phone_Number
+
+Bangalore          560045 9652314852
+
+Chennai                            560036 8079512634
+
+Coimbatore       560024 7760548925
+
+Hyderabad         560058 9886542189
+
+Pune                    560065 9885214763
+
+Kolkata               560016 8045627932
+
+ 
+
+ 
+
+ 
